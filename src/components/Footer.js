@@ -45,7 +45,7 @@ function Footer() {
             </p>
             <p>
               {" "}
-              <i className="fas fa-map-marked-alt"></i>Hyderabad,
+              <i className="fas fa-map-marked-alt"></i>Jangaon,
               Telangana-India
             </p>
             <div className="share">
