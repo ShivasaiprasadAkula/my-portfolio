@@ -15,7 +15,7 @@ function About() {
     return age;
   }
 
-  const birthDate = "1999-01-01"; // Replace with your actual birthdate
+  const birthDate = "1999-01-21";
 
   const age = calculateAge(birthDate);
 
