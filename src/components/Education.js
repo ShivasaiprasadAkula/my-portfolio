@@ -3,12 +3,10 @@ import React, { useState } from "react";
 function Education() {
   const [selectedImage, setSelectedImage] = useState(null);
 
-  // Function to handle click on an image and show it in full screen
   const handleImageClick = (imageSrc) => {
     setSelectedImage(imageSrc);
   };
 
-  // Function to close the modal or full screen view
   const handleCloseModal = () => {
     setSelectedImage(null);
   };

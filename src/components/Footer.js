@@ -9,7 +9,7 @@ function Footer() {
             <h3>Shivasaiprasad Akula</h3>
             <p>
               Thank you for visiting my personal portfolio website. Connect with
-              me over socials. <br /> <br /> Keep Rising 🚀. | Learn by Doing{" "}
+              me over socials. <br /> <br /> Keep Rising 🚀 | Learn by Doing{" "}
             </p>
           </div>
 

@@ -15,7 +15,7 @@ function Experience() {
             </div>
             <div className="desc">
               <h3>Junior Associate</h3>
-              <p>Sep 2019 - June 2021</p>
+              <p>January 2021 - April 2021</p>
             </div>
           </div>
         </div>
@@ -25,7 +25,7 @@ function Experience() {
               <h2>3i Infotech BPO LTD</h2>
             </div>
             <div className="desc">
-              <h3>Bakc Office Support (Team Lead)</h3>
+              <h3>Back Office Support (Team Lead)</h3>
               <p>May 2021 - April 2022</p>
             </div>
           </div>
@@ -38,7 +38,7 @@ function Experience() {
             </div>
             <div className="desc">
               <h3>Junior Software Developer (MERN Stack)</h3>
-              <p>Apr 2023 - Oct 2023</p>
+              <p>October 2022 - October 2023</p>
             </div>
           </div>
         </div>
@@ -50,7 +50,7 @@ function Experience() {
             </div>
             <div className="desc">
               <h3>Software Developer (Full Stack)</h3>
-              <p>Nov 2023 - Present</p>
+              <p>November 2023 - January 2025</p>
             </div>
           </div>
         </div>
